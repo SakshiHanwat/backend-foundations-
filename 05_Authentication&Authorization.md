@@ -1970,5 +1970,3 @@ Future → Blockchain identity, Post-quantum crypto
 **End of Authentication & Authorization Guide**
 
 *Remember: Security is not a feature, it's a requirement!*
-
-*Last Updated: February 2026*
